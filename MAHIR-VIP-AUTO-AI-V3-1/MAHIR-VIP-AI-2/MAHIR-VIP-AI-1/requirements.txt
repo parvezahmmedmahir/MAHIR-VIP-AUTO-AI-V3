@@ -1,0 +1,6 @@
+flask
+flask-cors
+pandas
+numpy
+python-socketio[client]
+websocket-client
