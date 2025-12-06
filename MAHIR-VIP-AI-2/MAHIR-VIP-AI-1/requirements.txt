@@ -1,7 +1,0 @@
-flask
-flask-cors
-pandas
-numpy
-yfinance
-python-socketio[client]
-websocket-client
